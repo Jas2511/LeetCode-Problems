@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jas2511/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jas2511/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
