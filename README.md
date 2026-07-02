@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jas2511/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jas2511/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 <!---LeetCode Topics End-->
