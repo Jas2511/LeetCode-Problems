@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jas2511/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jas2511/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jas2511/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jas2511/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jas2511/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/Jas2511/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jas2511/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
