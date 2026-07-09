@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jas2511/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Jas2511/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
