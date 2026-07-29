@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jas2511/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/Jas2511/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Jas2511/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jas2511/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2540-minimum-common-value](https://github.com/Jas2511/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Jas2511/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jas2511/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [2540-minimum-common-value](https://github.com/Jas2511/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/Jas2511/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
