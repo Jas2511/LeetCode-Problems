@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jas2511/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/Jas2511/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jas2511/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Jas2511/LeetCode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3838-weighted-word-mapping](https://github.com/Jas2511/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Jas2511/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jas2511/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jas2511/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2833-furthest-point-from-origin](https://github.com/Jas2511/LeetCode-Problems/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Jas2511/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jas2511/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
