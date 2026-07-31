@@ -1,19 +1,18 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_set<char> st;
+        int ans = 0, i = 1, j = 0;
         vector<int> cnt(26, 0);
-        for (char c : word) {
-            st.insert(c);
-        }
-        int n = st.size();
         for (char c : word) {
             cnt[c - 'a']++;
         }
-        int ans = 0;
         sort(cnt.begin(), cnt.end(), greater<int>());
-        int i = 1;
-        int j = 0;
+        int n = 0;
+
+        for (int x : cnt) {
+            if (x > 0)
+                n++;
+        }
         while (n > 8) {
             int x = 0;
             while (x < 8) {
@@ -30,7 +29,6 @@ public:
             x++;
             j++;
         }
-
         return ans;
     }
 };
