@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jas2511/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jas2511/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Jas2511/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Jas2511/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jas2511/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jas2511/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jas2511/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jas2511/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Jas2511/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jas2511/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Jas2511/LeetCode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Jas2511/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/Jas2511/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
