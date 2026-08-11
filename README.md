@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jas2511/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Jas2511/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Jas2511/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Jas2511/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jas2511/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Jas2511/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Jas2511/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Jas2511/LeetCode-Problems/tree/master/0877-stone-game) |
