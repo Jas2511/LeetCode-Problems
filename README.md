@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jas2511/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jas2511/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jas2511/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Jas2511/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Jas2511/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jas2511/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
