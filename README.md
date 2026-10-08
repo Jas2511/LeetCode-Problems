@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jas2511/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Jas2511/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jas2511/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Jas2511/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jas2511/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Jas2511/LeetCode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jas2511/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jas2511/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Jas2511/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jas2511/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Jas2511/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jas2511/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -302,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jas2511/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Jas2511/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
