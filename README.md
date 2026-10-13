@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jas2511/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jas2511/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jas2511/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jas2511/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jas2511/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jas2511/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jas2511/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jas2511/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jas2511/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Jas2511/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jas2511/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jas2511/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
