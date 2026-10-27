@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Jas2511/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jas2511/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Jas2511/LeetCode-Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jas2511/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2126-destroying-asteroids](https://github.com/Jas2511/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Jas2511/LeetCode-Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jas2511/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jas2511/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
