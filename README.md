@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jas2511/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jas2511/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jas2511/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jas2511/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jas2511/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Jas2511/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jas2511/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/Jas2511/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Linked List
 |  |
 | ------- |
