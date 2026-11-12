@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jas2511/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jas2511/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Jas2511/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Jas2511/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jas2511/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Jas2511/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Jas2511/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jas2511/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Jas2511/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [2540-minimum-common-value](https://github.com/Jas2511/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jas2511/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jas2511/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jas2511/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
